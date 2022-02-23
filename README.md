@@ -1,5 +1,5 @@
 - This is the GitHub account for the BYU Neuromorphic Computing Lab.
-- BYUNMLab is a subset of the [Perception, Control, Cognition Lab] (https://pcc.cs.byu.edu/).
+- BYUNMLab is a subset of the Perception, Control, Cognition Lab (https://pcc.cs.byu.edu/).
 - The lab is focused on exploring the use of neuromorphic circuits for machine learning applications.
 
 <!---
